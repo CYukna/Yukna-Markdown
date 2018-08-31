@@ -1,4 +1,4 @@
-#### Second File
+#### Markdown File
 -----------
 
 * Bullet point 1
