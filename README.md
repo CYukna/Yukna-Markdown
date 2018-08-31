@@ -2,7 +2,7 @@
 ## Markdown File
 ##### Go Tigers
 
-~~Go Kansas~~
+###### ~~Go Kansas~~
 
 __This is BOLD__
 *This is italic*
