@@ -12,7 +12,7 @@ __Go Tigers__
 Link to external website
 [Mizzou Tigers Football Schedule](https://mutigers.com/schedule.aspx?schedule=459)
 
-![Forest](forest.html)
+![Mizzou](Mizzou Tiger.jpg)
 
 
 [a link to Markdown file](Markdown.md)
