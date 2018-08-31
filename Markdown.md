@@ -5,6 +5,10 @@
 * Bullet point 2
 * Bullet point 3
 
+1. Item 1
+1. Item 2
+1. Item 3
+
 | Name   |  Age |
 | -------|------|
 | Connor |  19  |
@@ -29,16 +33,6 @@ int main()
   return 0;
 }
 ```
-
-
-
-
-
-
-
-
-
-
 
 
 
