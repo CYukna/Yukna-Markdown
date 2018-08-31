@@ -1,10 +1,8 @@
 
-## README File
-##### Go Tigers
+## README File 
 
+__Go Tigers__
 ~~Go Kansas~~
-
-__This is BOLD__
 *This is italic*
 > This is a block quote
 
