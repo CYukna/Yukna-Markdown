@@ -12,8 +12,7 @@ __Go Tigers__
 Link to external website
 [Mizzou Tigers Football Schedule](https://mutigers.com/schedule.aspx?schedule=459)
 
-
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Forest](forest.html)
 
 
 [a link to Markdown file](Markdown.md)
