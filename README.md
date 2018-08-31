@@ -2,7 +2,7 @@
 ## Markdown File
 ##### Go Tigers
 
-###### ~~Go Kansas~~
+~~Go Kansas~~
 
 __This is BOLD__
 *This is italic*
@@ -10,3 +10,4 @@ __This is BOLD__
 
 [Mizzou Tigers Football Schedule](https://mutigers.com/schedule.aspx?schedule=459)
 
+[a link to Markdown file](Markdown.md)
