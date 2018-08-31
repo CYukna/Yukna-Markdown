@@ -6,4 +6,4 @@
 
 __This is BOLD__
 
-[Mizzou Tigers Football Schedule] (https://mutigers.com/schedule.aspx?schedule=459)
+[Mizzou Tigers Football Schedule](https://mutigers.com/schedule.aspx?schedule=459)
